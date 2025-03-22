@@ -1,1 +1,1 @@
-# Random-Password-Generator
+A Random Password Generator and Strength Checker using HTML, CSS, and JavaScript. The project allowed users to generate passwords of customizable lengths while providing real-time feedback on password strength through visual indicators. Focused on creating a userfriendly interface and ensuring responsive design for various devices. 
